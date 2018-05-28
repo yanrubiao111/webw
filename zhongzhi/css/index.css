@@ -1,0 +1,121 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.header{
+	height: 173px;
+	background-color: #eeeeef;
+}
+.logo{
+	padding-top: 30px;
+	text-align: center;
+	height: 95px;
+}
+.nav{
+	width: 670px;
+	height: 45px;
+	background: #fff;
+	margin: 0 auto;
+	border-radius: 23px;
+}
+.nav li{
+	float: left;
+	height: 45px;
+	padding: 0 30px;
+	line-height: 45px;
+	background: url(../imgs/line.png) no-repeat right center;
+
+}
+.nav li a{
+	display: block;
+	height: 42px;
+	border-bottom: 3px solid #1e50ae;
+	color: blue;
+	font-size: 14px;
+	font-family: Microsoft Yahei;
+}
+.nav li b{
+	display: block;
+	height: 42px;
+	font-size: 14px;
+	font-family: Microsoft Yahei;
+}
+.nav li:last-child{
+	background:none;
+}
+.bannner{
+	height: 405px;
+	background: url(../imgs/ban.png) no-repeat center center;
+}
+.serve{
+	width: 1200px;
+	height: 810px;
+	margin: 0 auto;	
+}
+.s1{
+	padding-top: 63px;
+	text-align: center;
+	font-size: 34px;
+	font-family: Microsoft Yahei;
+}
+p{
+	text-align: center;
+	font-size: 25spx;
+	font-family: Aparajita;
+}
+.s2{
+	float: left;
+	height: 410px;
+	width: 1560px;
+}
+.s3{
+	float: left;
+	height: 250px;
+	width: 1560px;
+}
+.m1{
+	float: left;
+	padding-left: 70px;
+	height: 410px;
+	width: 305px;
+}
+.serve li{
+    padding-left: 45px;
+	text-align:left;
+	font-size: 14px;
+	font-family: Microsoft Yahei;
+}
+.m{
+	float: left;
+	height: 410px;
+	width: 305px;
+}
+.ziti{
+	padding-left: 43px;
+	text-align:left;
+	font-size: 16px;
+	font-family: Microsoft Yahei;
+}
+.n1{
+	float: left;
+	padding-left: 45px;
+	height: 250px;
+	width: 305px;
+}
+.n{
+	float: left;
+	height: 410px;
+	width: 305px;s
+}
+.q{
+	float: left;
+	text-align: center;
+	height: 2100px;
+	width: 1560px;
+}
